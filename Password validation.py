@@ -1,5 +1,5 @@
 # password validation
-# password="P@1235"
+# password=
 
 # Get password input from the user
 password = input("Enter your password: ")
