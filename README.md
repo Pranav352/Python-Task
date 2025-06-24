@@ -12,8 +12,8 @@ A Python script to input student details and marks for multiple subjects and gen
 - Percentage
 - Grade classification
 
-### 2. 🔐 Password Generator
-A secure password generator that allows customization such as:
+### 2. 🔐 Password validation
+A secure password validation that allows customization such as:
 - Password length
 - Inclusion of symbols, numbers, uppercase, and lowercase characters
 
@@ -24,8 +24,8 @@ Make sure you have Python installed.
 # For the marksheet generator
 marksheet.py
 
-# For the password generator
-password_gen.py
+# For the password validation
+password validation.py
 
 ### ▶️ Run Using **VS Code**
 
