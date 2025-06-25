@@ -6,13 +6,13 @@ Welcome to my **Daily Python Tasks** repository!
 This is a personal initiative to improve my Python skills by solving a variety of small, practical problems every day.
 
 
-### 1. 🎓 Marksheet Generator
+## 1. 🎓 Marksheet Generator
 A Python script to input student details and marks for multiple subjects and generate a summary marksheet with:
 - Total marks
 - Percentage
 - Grade classification
 
-### 2. 🔐 Password validation
+## 2. 🔐 Password validation
 A secure password validation that allows customization such as:
 - Password length
 - Inclusion of symbols, numbers, uppercase, and lowercase characters
@@ -38,6 +38,18 @@ This is a basic command-line calculator written in Python. It allows users to pe
 2. Program displays a menu for choosing the operation.
 3. Based on the user's input, the corresponding calculation is done.
 4. The result is printed to the screen.
+
+## 4. 🔢 Multiplication Table Generator
+A simple Python script that prints the multiplication table for a number entered by the user.
+
+📋 Description
+This script:
+
+  - Takes an integer input from the user.
+
+  - Prints the multiplication table for that number from 1 to 10.
+
+  - Uses a for loop and Python’s f-string for clean output formatting.
 
 
 
