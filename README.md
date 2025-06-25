@@ -17,6 +17,30 @@ A secure password validation that allows customization such as:
 - Password length
 - Inclusion of symbols, numbers, uppercase, and lowercase characters
 
+
+## 3. 🧮 Simple Python Calculator
+
+This is a basic command-line calculator written in Python. It allows users to perform **addition**, **subtraction**, **multiplication**, and **division** between two numbers based on their choice.
+
+## 📌 Features
+
+- Accepts two integer inputs from the user.
+- Offers four arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Provides input validation for operation choice.
+
+## 🖥️ How It Works
+
+1. User inputs two numbers.
+2. Program displays a menu for choosing the operation.
+3. Based on the user's input, the corresponding calculation is done.
+4. The result is printed to the screen.
+
+
+
 ## 🚀 How to Run
 
 Make sure you have Python installed. 
