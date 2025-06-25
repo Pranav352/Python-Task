@@ -1,9 +1,5 @@
 # enter numbers and print that number of table
-# n=int(input("Enter number  : "))
-# output
-# 2 * 1 = 2
-# 2 * 2 = 4
-# 2 * 3 = 6  
+
 
 n=int(input("Enter a number:"))
 
