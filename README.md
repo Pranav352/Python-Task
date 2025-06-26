@@ -43,25 +43,42 @@ This is a basic command-line calculator written in Python. It allows users to pe
 A simple Python script that prints the multiplication table for a number entered by the user.
 
 📋 Description
-This script:
+  This script:
 
-  - Takes an integer input from the user.
+   - Takes an integer input from the user.
+ 
+   - Prints the multiplication table for that number from 1 to 10.
 
-  - Prints the multiplication table for that number from 1 to 10.
+   - Uses a for loop and Python’s f-string for clean output formatting.
 
-  - Uses a for loop and Python’s f-string for clean output formatting.
+## 5. Discount Calculator 💰
+
+This is a simple Python program that calculates the final price after applying a discount based on the purchase amount. It's beginner-friendly and demonstrates the use of conditional statements and basic arithmetic operations in Python.
+
+## 🚀 How It Works
+
+1. The user is prompted to enter a total purchase amount.
+2. Based on the amount, the program applies a discount according to the following rules:
+
+| Purchase Amount (₹) | Discount |
+|---------------------|----------|
+| Less than 5000      | 0%       |
+| 5000 - 9999         | 5%       |
+| 10000 - 19999       | 10%      |
+| 20000 - 49999       | 15%      |
+| 50000 and above     | 20%      |
+
+3. The program calculates:
+   - Discount percentage
+   - Discount amount
+   - Final price after applying the discount
+
 
 
 
 ## 🚀 How to Run
 
 Make sure you have Python installed. 
-
-# For the marksheet generator
-marksheet.py
-
-# For the password validation
-password validation.py
 
 ### ▶️ Run Using **VS Code**
 
@@ -76,9 +93,12 @@ password validation.py
 
 4. **Run the Script**:  
    Click on the green "Run" button at the top right or press `Ctrl + F5`.
-
---- 
+   
+🙋‍♂️ Author
+  - ** Pranav **  
+    [Pranav352](https://github.com/Pranav352) 
+ 
 ## 📅 Future Updates
-More Python scripts will be added .
+More Python task will be added .
 
 
