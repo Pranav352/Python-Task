@@ -13,9 +13,23 @@ A Python script to input student details and marks for multiple subjects and gen
 - Grade classification
 
 ## 2. 🔐 Password validation
-A secure password validation that allows customization such as:
-- Password length
-- Inclusion of symbols, numbers, uppercase, and lowercase characters
+
+This File contains a simple Python script that validates a user's password based on commonly used security criteria.
+
+## 📌 Description
+
+The script prompts the user to input a password and validates it by checking the following:
+
+  - ✅ Minimum length of **8 characters**
+  - ✅ At least **one uppercase** letter
+  - ✅ At least **one lowercase** letter
+  - ✅ At least **one digit**
+  - ✅ At least **one special character** from `!@#$%^&*()-_+=<>?`
+
+## 💡 Concepts Used
+  - Input handling
+  -  String methods (isupper(), islower(), isdigit())
+  -  Control structures (if, for loops)
 
 
 ## 3. 🧮 Simple Python Calculator
