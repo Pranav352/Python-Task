@@ -26,7 +26,7 @@ The script prompts the user to input a password and validates it by checking the
   - ✅ At least **one digit**
   - ✅ At least **one special character** from `!@#$%^&*()-_+=<>?`
 
-## 💡 Concepts Used
+## 🧠 Concepts Used
   - Input handling
   -  String methods (isupper(), islower(), isdigit())
   -  Control structures (if, for loops)
@@ -46,6 +46,12 @@ This is a basic command-line calculator written in Python. It allows users to pe
   - Division
 - Provides input validation for operation choice.
 
+## 🧠 Concepts Used
+  - Input handling
+  - Conditional statements (if, elif, else)
+  - Type casting (int)
+  - Basic arithmetic operations
+
 ## 🖥️ How It Works
 
 1. User inputs two numbers.
@@ -60,10 +66,14 @@ A simple Python script that prints the multiplication table for a number entered
   This script:
 
    - Takes an integer input from the user.
- 
    - Prints the multiplication table for that number from 1 to 10.
-
    - Uses a for loop and Python’s f-string for clean output formatting.
+
+## 🧠 Concepts Used
+  - Input handling
+  - Loops (for loop)
+  - Arithmetic operations
+  - f-string formatting
 
 ## 5. Discount Calculator 💰
 
@@ -86,6 +96,12 @@ This is a simple Python program that calculates the final price after applying a
    - Discount percentage
    - Discount amount
    - Final price after applying the discount
+
+## 🧠 Concepts Used
+  - Conditional logic (if-elif-else)
+  - Arithmetic operations
+  - Input/output handling
+  - Percentage calculation
   
 ## 6. Diamond Pattern in Python
 
