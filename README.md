@@ -55,25 +55,45 @@ A simple Python script that prints the multiplication table for a number entered
 
 This is a simple Python program that calculates the final price after applying a discount based on the purchase amount. It's beginner-friendly and demonstrates the use of conditional statements and basic arithmetic operations in Python.
 
-## 🚀 How It Works
+  ## 🚀 How It Works
 
-1. The user is prompted to enter a total purchase amount.
-2. Based on the amount, the program applies a discount according to the following rules:
+  1. The user is prompted to enter a total purchase amount.
+  2. Based on the amount, the program applies a discount according to the following rules:
 
-| Purchase Amount (₹) | Discount |
-|---------------------|----------|
-| Less than 5000      | 0%       |
-| 5000 - 9999         | 5%       |
-| 10000 - 19999       | 10%      |
-| 20000 - 49999       | 15%      |
-| 50000 and above     | 20%      |
+  | Purchase Amount (₹) | Discount |
+  |---------------------|----------|
+  | Less than 5000      | 0%       |
+  | 5000 - 9999         | 5%       |
+  | 10000 - 19999       | 10%      |
+  | 20000 - 49999       | 15%      |
+  | 50000 and above     | 20%      |
 
-3. The program calculates:
+  3. The program calculates:
    - Discount percentage
    - Discount amount
    - Final price after applying the discount
+  
+## 6. Diamond Pattern in Python
 
+  This file contains a simple Python script that prints a diamond-shaped pattern of asterisks (`*`) based on the input size `n`.
 
+  ## 📌 Description
+
+  The script uses nested loops to generate:
+
+  - An upper pyramid pattern
+  - A lower inverted pyramid pattern
+
+  Both parts together form a symmetrical diamond pattern.
+
+  ## 🧮 Input
+
+  The number of rows for the upper half of the diamond is determined by the variable `n`. In this example, `n = 3`.
+
+  ## 🧠 Concepts Used
+   -  Nested loops
+  -  Pattern printing
+  -  Control structures (for loops)
 
 
 ## 🚀 How to Run
