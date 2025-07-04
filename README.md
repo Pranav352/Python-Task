@@ -125,6 +125,22 @@ This is a simple Python program that calculates the final price after applying a
   -  Pattern printing
   -  Control structures (for loops)
 
+## 7.🎓 Student Management System
+
+A basic Python console application to manage student records, including names, IDs, and grades.
+
+## 📌 Features
+
+- Add a new student with name, ID, and grades
+- View all students and their average grades
+- Simple text-based menu interface
+- Stores data in memory during runtime
+
+  ## 🚀 Future Improvements
+    -  Save student data to a file
+    -  Add search or delete functionality
+
+
 
 ## 🚀 How to Run
 
